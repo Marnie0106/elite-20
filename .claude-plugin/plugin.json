@@ -1,9 +1,5 @@
 {
-  "name": "neoskills",
+  "name": "claude",
   "description": "Cross-agent skill bank, transfer system, and embedded skill substrate",
-  "version": "0.1.0",
-  "author": {
-    "name": "Richard Tong"
-  },
-  "license": "MIT"
+  "version": "0.1.0"
 }
