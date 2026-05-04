@@ -1,0 +1,25 @@
+# 参考资料
+
+---
+
+## 📚 课程相关
+- **AI+X Elite 20 课程**：老师提供的入门课程
+- **KSTAR 方法论**：Knowledge-Situation-Task-Action-Result 任务拆解框架
+- **neoskills 工具包**：跨 AI Agent 的技能管理系统
+
+## 🔧 AI 工具
+- [ChatGPT](https://chat.openai.com) — 综合能力最强的 AI 对话工具
+- [DeepSeek](https://chat.deepseek.com) — 中文友好、代码能力强的免费 AI
+- [Claude](https://claude.ai) — 长文本处理优秀
+- [GitHub Copilot](https://github.com/features/copilot) — IDE 内 AI 编程助手
+- [Cursor](https://cursor.sh) — AI 驱动的代码编辑器
+
+## 📖 电子信息工程学习资源
+- C 语言：《C Primer Plus》
+- Python：《Python 编程：从入门到实践》
+- 嵌入式：STM32 官方文档 + 正点原子/野火教程
+- 信号处理：《数字信号处理》（第四版）
+
+## 🔗 GitHub
+- 老师仓库：[neolaf2/neoskills](https://github.com/neolaf2/neoskills)
+- 同学参考：[dark-077/elite20-starter](https://github.com/dark-077/elite20-starter)
